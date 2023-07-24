@@ -1,6 +1,6 @@
 
 # Shoppy 
-This is a simple and static "Myntra shopping WebApp clone" built using HTML, CSS, and JavaScript.
+This is a simple and static "Myntra shopping WebApp clone" built using basic HTML, CSS, and JavaScript.
 
 Note :- The inspiration has been taken from the YouTube Tutorials.
 
