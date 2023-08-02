@@ -25,4 +25,3 @@ Paste $ git clone <HTTPS URL>
 
 
 this is a sample text added
-sampel2
