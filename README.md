@@ -23,8 +23,7 @@ Step 3:
 Paste $ git clone <HTTPS URL>
 ```    
 
-this is a readme update
 
 
-the readme is updated
+
 
